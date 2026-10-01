@@ -1,0 +1,10 @@
+*.csv
+*.xlsx
+*.xls
+*.parquet
+__pycache__/
+*.pyc
+.venv/
+.databricks/
+.DS_Store
+Thumbs.db
